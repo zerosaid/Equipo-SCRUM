@@ -1,0 +1,64 @@
+[
+    {
+        "autor": "Andres",
+        "contenido": "hola mundo",
+        "likes": 10,
+        "respuestas": [
+            {
+                "autor": "danil6_9",
+                "contenido": "Estoy de acuerdo contigo.",
+                "likes": 3
+            },
+            {
+                "autor": "danil6_9",
+                "contenido": "Buena opinión, gracias por compartir.",
+                "likes": 5
+            },
+            {
+                "autor": "danil6_9",
+                "contenido": "JAJAJAJ",
+                "likes": 0
+            },
+            {
+                "autor": "Andres",
+                "contenido": "XD",
+                "likes": 1
+            }
+        ]
+    },
+    {
+        "autor": "Andres",
+        "contenido": "2",
+        "likes": 31,
+        "respuestas": []
+    },
+    {
+        "autor": "danil6_9",
+        "contenido": "3",
+        "likes": 72,
+        "respuestas": []
+    },
+    {
+        "autor": "danil6_9",
+        "contenido": "4",
+        "likes": 0,
+        "respuestas": []
+    },
+    {
+        "autor": "andres",
+        "contenido": "gay quien lo lea",
+        "likes": 0,
+        "respuestas": [
+            {
+                "autor": "andres",
+                "contenido": "tu solo papa",
+                "likes": 0
+            },
+            {
+                "autor": "andres",
+                "contenido": "XD",
+                "likes": 0
+            }
+        ]
+    }
+]
